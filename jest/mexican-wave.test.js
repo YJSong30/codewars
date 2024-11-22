@@ -10,7 +10,7 @@ test("basic test for hello", function () {
   ]);
 });
 
-test("basic test for hello", function () {
+test("basic test for codewars", function () {
   expect(mexican_wave("codewars")).toEqual([
     "Codewars",
     "cOdewars",
