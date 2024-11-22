@@ -1,6 +1,6 @@
-# Codewars Solutions
+# Codewars
 
-Welcome to my **Codewars Solutions** repository! This is a collection of solutions to various coding challenges on [Codewars](https://www.codewars.com/), showcasing my problem-solving skills, proficiency in JavaScript, and testing abilities with Jest.
+Welcome to my **Codewars** repository! This is a collection of solutions to various coding challenges on [Codewars](https://www.codewars.com/), showcasing my problem-solving skills, proficiency in JavaScript, and testing abilities with Jest.
 
 ## 🛠️ Features
 
