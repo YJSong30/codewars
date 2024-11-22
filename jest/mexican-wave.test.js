@@ -1,4 +1,4 @@
-const mexican_wave = require("./mexican-wave.js");
+const mexican_wave = require("../js_files/mexican-wave.js");
 
 test("basic test for hello", function () {
   expect(mexican_wave("hello")).toEqual([

@@ -1,4 +1,4 @@
-const firstNonRepeatingCharacter = require("./first-non-repeating-character.js");
+const firstNonRepeatingCharacter = require("../js_files/first-non-repeating-character.js");
 
 test("basic test for a", function () {
   expect(firstNonRepeatingCharacter("a")).toBe("a");
